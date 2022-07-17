@@ -1,0 +1,3 @@
+function nana() {
+    alert('nana')
+}
