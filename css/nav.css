@@ -3,3 +3,6 @@ div {
     height: 200px;
     color: skyblue;
 }
+body {
+    background-color: gray;
+}
